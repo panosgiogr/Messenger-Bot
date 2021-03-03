@@ -30,7 +30,7 @@ class EchoBot(Client):
                 sendmessage("You're Welcome !")
                 print("Hi There !") #For debugging
             else:
-                print("I can not understand")
+                print("No Answer") #For debugging
 
 client = EchoBot("sender-id", "sender-passwd")
 client.listen()
