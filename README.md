@@ -10,9 +10,9 @@ In Order to use the messenger bot you should Follow these steps:
 1. Open Terminal
 2. Type in terminal the command bellow to update your repository list package :
    sudo apt-get update
-3. Type in terminal the command bellow to install pip3
+3. Type in terminal the command bellow to install pip3 :
    sudo apt-get install python3-pip
-4. Type in terminal the command bellow to install facebook's chat package
+4. Type in terminal the command bellow to install facebook's chat package :
    pip3 install fbchat
    
    
