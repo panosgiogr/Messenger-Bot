@@ -5,7 +5,7 @@ Here's a simple bot that replies to your requests.
 
 In Order to use the messenger bot you should Follow these steps:
 
-#I recommend installing packages and updates with sudo
+I recommend installing packages and updates with sudo
 
 1. Open Terminal
 2. Type in terminal the command bellow to update your repository list package :
@@ -16,5 +16,5 @@ In Order to use the messenger bot you should Follow these steps:
    pip3 install fbchat
    
    
-#Here you can find someone's Facebook ID
+#Here you can find someone's Facebook ID :
    https://findmyfbid.in/
